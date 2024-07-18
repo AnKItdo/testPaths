@@ -1,1 +1,6 @@
-
+// Example project config file
+{
+  "name": "my_project",
+  "srcDir": "src",
+  "platformVersion": "2023.2"
+}
